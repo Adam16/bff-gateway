@@ -22,7 +22,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "fast-gateway": "^3.4.6",
+    "fast-gateway": "^3.4.7",
     "restana": "^4.9.9"
   }
 }
