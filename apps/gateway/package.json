@@ -13,7 +13,7 @@
     "@bff/eslint-config": "workspace:*",
     "@bff/typescript-config": "workspace:*",
     "@types/node": "^20.12.10",
-    "@typescript-eslint/eslint-plugin": "^7.1.0",
+    "@typescript-eslint/eslint-plugin": "^7.15.0",
     "@typescript-eslint/parser": "^7.1.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-turbo": "^1.12.4",
